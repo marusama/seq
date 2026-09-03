@@ -63,3 +63,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AA AB AC AD AE AF AG AH AI
 9 — 九 — jiǔ [цзю]
 10 — 十 — shí [шы]
 
+# испанский счёт
+
+уно
+дос трес кватро
